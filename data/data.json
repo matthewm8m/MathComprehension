@@ -1,0 +1,188 @@
+{
+  "pairs": [
+    {
+      "questionPath": "memory-table/1d.q.tex",
+      "answerPath": "memory-table/1d.a.tex",
+      "timeLimit": 120
+    },
+    {
+      "questionPath": "memory-table/2d.q.tex",
+      "answerPath": "memory-table/2d.a.tex",
+      "timeLimit": 120
+    },
+    {
+      "questionPath": "memory-table/3d.q.tex",
+      "answerPath": "memory-table/3d.a.tex",
+      "timeLimit": 120
+    },
+    {
+      "questionPath": "memory-table/1r.q.tex",
+      "answerPath": "memory-table/1r.a.tex",
+      "timeLimit": 120
+    },
+    {
+      "questionPath": "memory-table/2r.q.tex",
+      "answerPath": "memory-table/2r.a.tex",
+      "timeLimit": 120
+    },
+    {
+      "questionPath": "memory-table/3r.q.tex",
+      "answerPath": "memory-table/3r.a.tex",
+      "timeLimit": 120
+    },
+    {
+      "questionPath": "deg-rad-conv/1d-r.q.tex",
+      "answerPath": "deg-rad-conv/1d-r.a.tex",
+      "timeLimit": 60
+    },
+    {
+      "questionPath": "deg-rad-conv/2d-r.q.tex",
+      "answerPath": "deg-rad-conv/2d-r.a.tex",
+      "timeLimit": 60
+    },
+    {
+      "questionPath": "deg-rad-conv/3d-r.q.tex",
+      "answerPath": "deg-rad-conv/3d-r.a.tex",
+      "timeLimit": 60
+    },
+    {
+      "questionPath": "deg-rad-conv/1r-d.q.tex",
+      "answerPath": "deg-rad-conv/1r-d.a.tex",
+      "timeLimit": 75
+    },
+    {
+      "questionPath": "deg-rad-conv/2r-d.q.tex",
+      "answerPath": "deg-rad-conv/2r-d.a.tex",
+      "timeLimit": 75
+    },
+    {
+      "questionPath": "deg-rad-conv/3r-d.q.tex",
+      "answerPath": "deg-rad-conv/3r-d.a.tex",
+      "timeLimit": 75
+    },
+    {
+      "questionPath": "sim-tri/1.q.tex",
+      "answerPath": "sim-tri/1.a.tex",
+      "imagePath": "sim-tri/v1.png",
+      "timeLimit": 180
+    },
+    {
+      "questionPath": "sim-tri/2.q.tex",
+      "answerPath": "sim-tri/2.a.tex",
+      "imagePath": "sim-tri/v2.png",
+      "timeLimit": 200
+    },
+    {
+      "questionPath": "sim-tri/3.q.tex",
+      "answerPath": "sim-tri/3.a.tex",
+      "imagePath": "sim-tri/v3.png",
+      "timeLimit": 200
+    },
+    {
+      "questionPath": "plane-trig/angle1d.q.tex",
+      "answerPath": "plane-trig/angle1d.a.tex",
+      "timeLimit": 180
+    },
+    {
+      "questionPath": "plane-trig/angle2d.q.tex",
+      "answerPath": "plane-trig/angle2d.a.tex",
+      "timeLimit": 180
+    },
+    {
+      "questionPath": "plane-trig/angle1r.q.tex",
+      "answerPath": "plane-trig/angle1r.a.tex",
+      "timeLimit": 180
+    },
+    {
+      "questionPath": "plane-trig/angle2r.q.tex",
+      "answerPath": "plane-trig/angle2r.a.tex",
+      "timeLimit": 180
+    },
+    {
+      "questionPath": "plane-trig/given1.q.tex",
+      "answerPath": "plane-trig/given1.a.tex",
+      "timeLimit": 150
+    },
+    {
+      "questionPath": "plane-trig/given2.q.tex",
+      "answerPath": "plane-trig/given2.a.tex",
+      "timeLimit": 150
+    },
+    {
+      "questionPath": "plane-trig/passes1.q.tex",
+      "answerPath": "plane-trig/passes1.a.tex",
+      "timeLimit": 120
+    },
+    {
+      "questionPath": "plane-trig/passes2.q.tex",
+      "answerPath": "plane-trig/passes2.a.tex",
+      "timeLimit": 120
+    },
+    {
+      "questionPath": "word-tri/adv1.q.tex",
+      "answerPath": "word-tri/adv1.a.tex",
+      "imagePath": "word-tri/adv1.png",
+      "imageAnswer": true,
+      "timeLimit": 480
+    },
+    {
+      "questionPath": "word-tri/adv2.q.tex",
+      "answerPath": "word-tri/adv2.a.tex",
+      "imagePath": "word-tri/adv2.png",
+      "imageAnswer": true,
+      "timeLimit": 480
+    },
+    {
+      "questionPath": "word-tri/adv3.q.tex",
+      "answerPath": "word-tri/adv3.a.tex",
+      "imagePath": "word-tri/adv3.png",
+      "imageAnswer": true,
+      "timeLimit": 480
+    },
+    {
+      "questionPath": "word-tri/bas1.q.tex",
+      "answerPath": "word-tri/bas1.a.tex",
+      "imagePath": "word-tri/bas1.png",
+      "imageAnswer": true,
+      "timeLimit": 210
+    },
+    {
+      "questionPath": "word-tri/bas2.q.tex",
+      "answerPath": "word-tri/bas2.a.tex",
+      "imagePath": "word-tri/bas2.png",
+      "imageAnswer": true,
+      "timeLimit": 210
+    },
+    {
+      "questionPath": "word-cir/bas1.q.tex",
+      "answerPath": "word-cir/bas1.a.tex",
+      "timeLimit": 240
+    },
+    {
+      "questionPath": "word-cir/bas2.q.tex",
+      "answerPath": "word-cir/bas2.a.tex",
+      "timeLimit": 240
+    },
+    {
+      "questionPath": "word-cir/bas3.q.tex",
+      "answerPath": "word-cir/bas3.a.tex",
+      "timeLimit": 240
+    },
+    {
+      "questionPath": "word-cir/bas4.q.tex",
+      "answerPath": "word-cir/bas4.a.tex",
+      "timeLimit": 240
+    },
+    {
+      "questionPath": "word-cir/adv1.q.tex",
+      "answerPath": "word-cir/adv1.a.tex",
+      "timeLimit": 360
+    },
+    {
+      "questionPath": "word-cir/adv2.q.tex",
+      "answerPath": "word-cir/adv2.a.tex",
+      "imagePath": "word-cir/adv2.png",
+      "timeLimit": 480
+    }
+  ]
+}

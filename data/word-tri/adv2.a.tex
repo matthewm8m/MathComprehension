@@ -1,0 +1,20 @@
+There are a pair of drones hovering over some flat ground. Drone $A$ is higher and is directly above ground point $A$. Drone $B$ is lower and is directly above ground point $B$. From drone $A$, we can see drone $B$ with $30^{\circ}$ angle of depression. From drone $B$, we can see point $A$ with a $70^{\circ}$ angle of depression. Points $A$ and $B$ are $30$ft apart. How high (in ft) are drones $A$ and $B$ off the ground? Also, what distance apart are they?
+\[\]
+Look at the picture below. If drone $A$ is $a$ ft off the ground, and drone $B$ is $b$ ft off the ground, then we have
+\[
+  \tan(30^{\circ}) = \frac{a - b}{30\ \text{ft}} \qquad \text{and} \qquad \tan(70^{\circ}) = \frac{b}{30\ \text{ft}}.
+\]
+We can immediately solve for $b$.
+\[
+  b = 30\tan(70^{\circ})\ \text{ft}.
+\]
+Adding the two original fractions gives
+\[
+  \tan(30^{\circ}) + \tan(70^{\circ}) = \frac{a - b}{30\ \text{ft}} + \frac{b}{30\ \text{ft}} = \frac{a}{30\ \text{ft}}.
+\]
+Solving for $a$ gives us
+\[
+  a = 30(\tan(30^{\circ}) + \tan(70^{\circ}))\ \text{ft}.
+\]
+
+The distance apart satisfies $\sec(30^{\circ}) = d / (30\ \text{ft})$ so $d = 30\sec(30^{\circ})\ \text{ft}$.
